@@ -1,0 +1,6 @@
+In this code we can search our Element by using Binary search 
+
+  # Binary Search: 
+  It is used for a sorted array. It mainly compares the array's middle element
+first and if the middle element is same as input, then it returns. Otherwise it searches in either
+left half or right half based on comparison result (Whether the mid element is smaller or greater)
